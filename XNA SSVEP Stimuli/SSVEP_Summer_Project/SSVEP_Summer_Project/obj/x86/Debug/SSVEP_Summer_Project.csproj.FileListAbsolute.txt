@@ -1,0 +1,128 @@
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\SSVEP_Summer_Project.exe
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\SSVEP_Summer_Project.pdb
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.csprojResolveAssemblyReference.cache
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.exe
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.pdb
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\check1.xnb
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\check2.xnb
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\checkVert1.xnb
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\checkVert2.xnb
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\solid1.xnb
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\solid2.xnb
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\solidVert1.xnb
+C:\Users\Waytowich\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\solidVert2.xnb
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\check1.xnb
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\check2.xnb
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\checkVert1.xnb
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\checkVert2.xnb
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\solid1.xnb
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\solid2.xnb
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\solidVert1.xnb
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\solidVert2.xnb
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\SSVEP_Summer_Project.exe
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\SSVEP_Summer_Project.pdb
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.csprojResolveAssemblyReference.cache
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.exe
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.pdb
+C:\Users\aspen\Desktop\SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\solid1 - Copy.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\solid1.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\solid2.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\Cross.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\1.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\10.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\11.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\12.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\13.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\14.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\15.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\16.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\2.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\3.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\4.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\5.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\6.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\7.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\8.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\9.xnb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\SSVEP_Summer_Project.exe
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\SSVEP_Summer_Project.pdb
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.exe
+C:\Users\aspen\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.pdb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\Cross.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\1.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\10.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\11.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\12.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\13.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\14.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\15.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\16.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\2.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\3.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\4.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\5.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\6.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\7.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\8.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\9.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\Solid1.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\Solid2.xnb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\SSVEP_Summer_Project.exe
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\SSVEP_Summer_Project.pdb
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.csprojResolveAssemblyReference.cache
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.exe
+C:\Users\Waytowich\Desktop\RD\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.pdb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\1.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\10.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\11.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\12.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\13.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\14.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\15.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\16.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\2.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\3.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\4.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\5.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\6.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\7.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\8.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\9.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\Solid1.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\Solid2.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\Cross.xnb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\SSVEP_Summer_Project.exe
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\SSVEP_Summer_Project.pdb
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.csprojResolveAssemblyReference.cache
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.exe
+C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.pdb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\1.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\10.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\11.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\12.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\13.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\14.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\15.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\16.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\2.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\3.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\4.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\5.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\6.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\7.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\8.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\9.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\Solid1.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\Solid2.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\Cross.xnb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\SSVEP_Summer_Project.exe
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\SSVEP_Summer_Project.pdb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.exe
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.pdb
+C:\Users\aspen\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\SSVEP_Summer_Project.csprojResolveAssemblyReference.cache

@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SSVEP Textures\1.png</Source>
+      <Name>SSVEP Textures\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\1.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\10.png</Source>
+      <Name>SSVEP Textures\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\10.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\11.png</Source>
+      <Name>SSVEP Textures\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\11.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\12.png</Source>
+      <Name>SSVEP Textures\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\12.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\13.png</Source>
+      <Name>SSVEP Textures\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\13.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\14.png</Source>
+      <Name>SSVEP Textures\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\14.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\15.png</Source>
+      <Name>SSVEP Textures\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\15.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\16.png</Source>
+      <Name>SSVEP Textures\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\16.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\2.png</Source>
+      <Name>SSVEP Textures\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\2.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\3.png</Source>
+      <Name>SSVEP Textures\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\3.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\4.png</Source>
+      <Name>SSVEP Textures\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\4.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\5.png</Source>
+      <Name>SSVEP Textures\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\5.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\6.png</Source>
+      <Name>SSVEP Textures\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\6.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\7.png</Source>
+      <Name>SSVEP Textures\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\7.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\8.png</Source>
+      <Name>SSVEP Textures\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\8.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\9.png</Source>
+      <Name>SSVEP Textures\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\9.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\Solid1.png</Source>
+      <Name>SSVEP Textures\Solid1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\Solid1.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\Solid2.png</Source>
+      <Name>SSVEP Textures\Solid2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\Solid2.xnb</Output>
+      <Time>2014-06-27T12:40:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SSVEP Textures\Cross.png</Source>
+      <Name>SSVEP Textures\Cross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\SSVEP Textures\Cross.xnb</Output>
+      <Time>2013-07-24T13:41:26-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5E88FD3A-EAF0-48AA-9649-7FB1854023B2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_ProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Waytowich\Desktop\R2D2\SSVEP_Summer_Project\SSVEP_Summer_Project\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-23T10:35:53.9676526-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

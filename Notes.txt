@@ -1,0 +1,144 @@
+BCI2000 - will be used to create framework of the BCI
+MATLAB - more of an end step, used to analyze the signals (in my case CCA [read the articles for more information about this])
+C# - will be used to modify the SSVEP signal; the SSVEP signal had to be created seperately by Nicholas, so to modify the size, color, shape of the SSVEP signal I will need to learn how to program CStar (I hope to start this on Wednesday)
+
+General Schedule - I can arrive at the lab generally whenever I want (I'll probably stay from 11:00 - 6:00 pm or so)
+
+Monday/Tuesday - Read SSVEP articles and read book (the one listed below). Create the general framework of what I am modifying and other specifics
+Tuesday - Friday - Continue reading books and articles; learn how to program/use CStar; will also use BCI2000 to set everything up (this may be already done by the pHd students)
+Weekend - maybe continue reading and such; more freedom
+
+Monday - Wednesday - Not sure, will probably be testing on human subjects (the volunteers are typically people in the lab, probably myself included)
+Thursday - Friday - Use MATLAB to analyze signals; ensure that everything is complete; IF you do not finish by this time, make sure you can analyze the signals at home or obtain the information through the pHd students in some way
+ALSO, ask about possibly having this article published? << Need more details regarding this <<
+
+
+
+Notes-Statistical Signal Processing For Neuroscience and Neurotechnology
+
+Spike detection and estimation - Different types of signals require different types of analysis (in my case I am using EEG, probably a power analysis of the signals using MATLAB and BCI2000)
+
+Transient Signal: a signal known to be nonzero only for a subset of samples L within an observation interval of length N (basically, a signal created by a stimuli that is different from calm state [no moving or thinking] over a set time interval)
+HOW TO DETECT? 3 Parameters: Arrival time (K sub0), the support/time window (L), and the waveform shape (s)
+<Arrival time> MOST IMPORTANT *** Carries the information
+<L and s> mainly used to sort the spikes when multiple neurons are recorded simultaneously (AKA classification)
+
+Test statistic is used to find the liklihood of a certain event occuring.
+Ha: y=s+n
+H0: y=n
+y=observations
+s=L-dimensional spike to be detected
+n=additive noise term
+
+Contaminating Noise (n), crucial role in assessing how far apart the two models are
+
+Thermal and electrical noise due to electronic cuircitry (includes amplifiers, filters, and ADC)
+	Noise can be modeled as a stationary, zero-mean, Gaussian white noise process (AKA normal 		curve/Gaussian curve); only unknown parameter is the noise variance
+Biological noise
+	Already have notes on this; still need to figure out how to filter this information
+
+
+
+
+Brain-Computer Interfaces Based on the Steady-State Visual-Evoked Response
+Note: This article was published in 2000 and was the first article to use SSVEP BCI. Although the idea of SSVEP has been around for a while, this article was the first to make a BCI out of it.
+
+The researchers did 2 tests:
+1. Operators are trained to exert voluntary control over the strength of the SSVEP (it is possible to train users to manipulate to amplitude of the signal)
+2. Multiple SSVEP's are used for control (requires little to no training because the system capitalizes on naturally occurring responses)
+
+Generally results were good; it required a lot of training however (in my case I will not need training)
+
+
+Frequency Recognition Based on Canonical Correlation Analysis for SSVEP-Based BCIs
+CCA is applied to analyze the frequency components of SSVEP in EEG: extract a narrowband frequency component of SSVEP in EEG
+Recognition results better than FFT
+
+Frequency-coded selection by SSVEP - an SSVEP signal will be created in the brain with a similar fundamental frequency as visually seen on the moniter, CCA extracts that information and registers it as a command
+PSDA=Power Spectral Desnity based Analysis
+
+CCA: helps improve SNR, uses channel covariance information; it is a multivariable statistcal method used when there are two sets of data which may have some underlying correlation,
+Method used in article: focuses on relationship between the stimulus signals and EEG signals from multiple channels in a local area
+
+
+
+
+
+
+SSVEP Experimentation Information:
+
+References:
+A Survey of Stimulation Methods Used in SSVEP-Based BCIs 2010
+-"Further research on the influence of color on the SSVEP is necessary"
+-"Power of the SSVEP resonse is affected by both frequency and color of the stimuli [11]"
+
+Brain-Computer Interfaces Based on the Steady-State Visual-Evoked Response 2000
+
+Frequency Recognition Based on Canonical Correlation Analysis for SSVEP-Based BCIs 2007
+
+An Online Multi-Channel SSVEP-based Brain-Computer Interface Using a Canonical Correlation Analysis Method 2009
+-The framework was based off of this article
+
+<ADD OTHER ARTICLES>
+
+Testing: Color and Size of the stimuli (maybe focus on color?)
+Why? To improve classification rates and stability of the SSVEP signal in EEG
+
+Specs of the materials used?
+EEG:
+Amplifier:
+ADC:
+Filter(s):
+Programs: BCI2000 for paradigm and layout, CStar to manipulate the SSVEP signal, MATLAB for analysis and conclusion sections
+
+SSVEP Frequencies: 
+1-12 Hz = low frequency band
+13-30 Hz = medium frequency band
+31-60 Hz = high frequency band
+Choose from 6-30 Hz (in case computer specs or other issues), pattern reversal stimuli (AKA checkerboard)
+Low/medium frequencies cause more visual fatigue, can provoke epileptic seizures, and covers the alpha band which can cause a considerable amount of false positives. Should I use a high frequency band? 
+<Perhaps choose 8 Hz?> <Perhaps choose 31 Hz?>
+If I have time I will experiment with both frequencies
+
+Introduction to Experiment:
+No User Training Required
+The brightness of the room and location will all be the same
+Subjects will all be treated in a similar manner
+Using Canonical Cortical Analysis (CCA) to classify signals
+Users will be monitored to avoid eye blinking and muscle movement artifacts
+Using 5 healthy human subjects (probably people from the lab)
+ITR, classification accuracy (%), (I will need to find a way to analyze the signal and generate a conclusion from it) <ADD OTHER RESULTS> will be used as results
+
+SSVEP Size: Checkerboard and Solid Colors
+10 cm length (100 cm^2 area)
+SSVEP will be placed in the center of the screen
+
+Color Combinations that Will be Tested with Each Different Size:
+Background color is gray
+Black <=> White
+Red <=> White
+Blue <=> White
+Green <=> White
+
+Session Information
+Each session lasts 30 minutes.
+There will be one session for each of the stimuli type (checkerboard and solid colors) and color combinations (Checkerboard; White <=> Black, Solid Color; White <=> Black, Checkerboard; Red <=> White, Solid Color; Red <=> White, etc)
+
+Time window and trial organization: (needs to specify how long the object will flash, when it dissapears, how long the user break is, etc)
+Initial State: User will sit in a comfortable chair 1.5 meters away from the TV screen where the SSVEP will be displayed.
+Once the user is ready the BCI will start. 
+
+Loop Starts Here:
+1. There will be a 14 second pause. The screen will be blank at this time.
+
+2. The stimuli will appear for 5 seconds before dissapearing.
+3. There will be a black square for 10 seconds.
+4. Repeat steps 2 and 3 for all checkerboard/solid colors until the end of the experiment.
+
+User Interface
+Single SSVEP in the middle of the screen
+-This SSVEP will flash or dissapear in accordance with the time window
+The users job will be to look at the SSVEP
+
+
+

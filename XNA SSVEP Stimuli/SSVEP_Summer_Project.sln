@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSVEP_Summer_Project", "SSVEP_Summer_Project\SSVEP_Summer_Project\SSVEP_Summer_Project.csproj", "{A58A909E-70D9-4DA4-B7CC-1D8D7EB8CE1E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SSVEP_Summer_ProjectContent", "SSVEP_Summer_Project\SSVEP_Summer_ProjectContent\SSVEP_Summer_ProjectContent.contentproj", "{5E88FD3A-EAF0-48AA-9649-7FB1854023B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A58A909E-70D9-4DA4-B7CC-1D8D7EB8CE1E}.Debug|x86.ActiveCfg = Debug|x86
+		{A58A909E-70D9-4DA4-B7CC-1D8D7EB8CE1E}.Debug|x86.Build.0 = Debug|x86
+		{A58A909E-70D9-4DA4-B7CC-1D8D7EB8CE1E}.Release|x86.ActiveCfg = Release|x86
+		{A58A909E-70D9-4DA4-B7CC-1D8D7EB8CE1E}.Release|x86.Build.0 = Release|x86
+		{5E88FD3A-EAF0-48AA-9649-7FB1854023B2}.Debug|x86.ActiveCfg = Debug|x86
+		{5E88FD3A-EAF0-48AA-9649-7FB1854023B2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
